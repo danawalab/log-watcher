@@ -1,0 +1,31 @@
+{
+  "port": 9000,
+  "watch": [
+    {
+      "label": "ES NODE-1",
+      "path": "C:\\Users\\admin\\Desktop\\workspace\\log-watcher\\sample",
+      "file": "AApplication.log",
+      "level" : ["ERROR", "WARN"],
+      "contains" : ["ALLIED_CONTROL", "ThreadPoolTaskExecutor"]
+    },
+    {
+      "label": "ES NODE-2",
+      "path": "C:\\Users\\admin\\Desktop\\workspace\\log-watcher\\sample",
+      "file": "1.log",
+      "level" : ["ERROR", "WARN"]
+    }
+  ],
+  "interval": "10s",
+  "telegram": {
+     "bot_token": "XXXXXX:XXXXXXXXX",
+     "chat_id" : 1000000000
+  },
+  "logging": {
+      "filename": "C:\\Users\\admin\\Desktop\\workspace\\log-watcher\\sample\\application.log",
+      "level": "info",
+      "max_size": 500,
+      "max_backups": 3,
+      "max_age": 14,
+      "compress": true
+  }
+}

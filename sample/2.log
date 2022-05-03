@@ -1,0 +1,5 @@
+127.0.0.1 - [Thu Mar 27 23:48:28 KST 2021] 20.606861ms "GET /product/list?dataType=json&action=searchoption&category=873&cate_c=873&depth=2&shotYN=N&dynamicOption=Y&serviceType=0&sortType=name&useCache=true&useLimit=true&wrapper=false HTTP/1.0" 200 "mshop-local.danawa.com/mobile/?controller=goods&methods=searchOption&categorySeq=4104&_=1616683461811" ""    2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 500 latencyTime: 200
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 500 latencyTime: 200
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 500 latencyTime: 200
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300

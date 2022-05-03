@@ -1,0 +1,32 @@
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 500 latencyTime: 2002021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 500 latencyTime: 200
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 500 latencyTime: 200
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 500 latencyTime: 200
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 500 latencyTime: 200
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  INFO 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300s
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300s
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300s
+2021-03-30 09:44:11.660  WARN 1 --- [ThreadPoolTaskExecutor-1] c.d.queue.indexer.latencyLogger : queue: ALLIED_CONTROL messageSize: 200 latencyTime: 300s
+v
